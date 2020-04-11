@@ -1,0 +1,14 @@
+{
+  "name": "cs5200_spring2020_bhosale_anagha_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anagha Bhosale",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.6"
+  }
+}
