@@ -9,6 +9,6 @@
   "author": "Anagha Bhosale",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.9.6"
+    "mongoose": "^5.13.15"
   }
 }
